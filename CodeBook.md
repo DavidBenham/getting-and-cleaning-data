@@ -7,7 +7,7 @@ This codebook summarizes the required tidy data set: _tidy_data_set.txt
 * **activity**
 	Description of the Activity Type
 
-###I ncluded Average of Measurements
+### Included Average of Measurements Values
 There are two classificied dimensions in this signal data: 
 
 * **Time-domain**
