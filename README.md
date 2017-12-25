@@ -28,3 +28,4 @@ To fulfill the requirements, the **run_analysis.R** script includes the followin
 3. Replaced activity identifiers with activity types
 4. Replaced abbreviated or duplciated names with friendly names
 5. Created and Exported a tidy data set.
+"# getting-and-cleaning-data" 
