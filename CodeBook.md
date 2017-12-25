@@ -8,7 +8,7 @@ This codebook summarizes the required tidy data set: _tidy_data_set.txt
 	Description of the Activity Type
 
 ### Included Average of Measurements Values
-There are two classificied dimensions in this signal data: 
+There are two classified dimensions in this signal data: 
 
 * **Time-domain**
 (prefix: timeDomain) which includes data which originates from the accelerometer and gyroscope raw signals.
