@@ -1,13 +1,13 @@
-#Code Book
+# Code Book
 This codebook summarizes the required tidy data set: _tidy_data_set.txt
 
-###Included Identifiers
+### Included Identifiers
 * **subject**
 	An identifier for the Subject
 * **activity**
 	Description of the Activity Type
 
-###Included Average of Measurements
+###I ncluded Average of Measurements
 There are two classificied dimensions in this signal data: 
 
 * **Time-domain**
